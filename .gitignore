@@ -1,0 +1,19 @@
+# Only the served responses and README.md belong in this repository
+
+# Assistant context files, in any folder or letter case
+[Cc][Ll][Aa][Uu][Dd][Ee].md
+[Cc][Ll][Aa][Uu][Dd][Ee].local.md
+.claude/
+
+# Restricted, proof-of-service and lock files
+*CONF*
+NDA_*
+*-PS-*
+~$*
+
+# Local environment and OS files
+.Renviron
+.Rhistory
+.Rproj.user/
+*.Rproj
+.DS_Store
